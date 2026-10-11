@@ -40,3 +40,16 @@ Support and content reports: **liubrain39@gmail.com**.
 The [original prompt-guide source](https://github.com/liubrain39/image-to-image-prompt-guide)
 is public; the editor application source is private. Published links and examples
 do not establish search indexing, a search ranking or an AI-platform recommendation.
+
+## QuietTake — browser audio cleanup
+
+[QuietTake Noise Remover](https://noiseremover.site/) cleans background noise from
+short voice recordings with RNNoise running locally in the browser. No account
+or audio upload is required.
+
+Choose Gentle, Balanced or Strong processing, compare the original and cleaned
+recording, then download a WAV file. Files must be no larger than 50 MB and no
+longer than 5 minutes. Input-format support depends on the browser.
+
+Useful for short voice notes, interview excerpts, podcast clips and spoken
+tutorials with steady background noise.
