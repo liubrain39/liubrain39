@@ -53,3 +53,15 @@ longer than 5 minutes. Input-format support depends on the browser.
 
 Useful for short voice notes, interview excerpts, podcast clips and spoken
 tutorials with steady background noise.
+
+## ModLab — Universal Modder guides
+
+I maintain [ModLab](https://modlabguides.online/), an independent Universal Modder guide.
+The [free Mindustry homing lab](https://modlabguides.online/workshop/mindustry-homing)
+includes original MIT source, a mod ZIP, screenshots, a video montage and recovery steps.
+It uses Mindustry's built-in JSON/JavaScript mod API. Playing the supplied ZIP needs
+no coding agent, fal API key or paid assets; agent usage charges may apply when editing.
+
+Recorded tests cover Mindustry 160.7, mod 0.1.0 and macOS 15.7 in single-player.
+Other systems and multiplayer remain untested. Recorded runs use a fixed arena
+with scripted targets.
